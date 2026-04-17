@@ -37,7 +37,7 @@ public class Employee {
 		//change the static variable
 		Employee.companyName = "TCS";
 		
-		System.out.println(Employee.companyName);
+		System.out.println(Employee.companyName);//testing github
 	}
 }
 
